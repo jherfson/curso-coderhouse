@@ -15,6 +15,9 @@
 ### **Exercício Data Acquisition I**
 * [Leitura de CSV em Python](https://github.com/jherfson/curso-coderhouse/blob/main/aula11/leitura_csv_python.ipynb)
 
+## **Aula 12 - Data Acquisition II e Data Wrangling I**
+* [Data Acquisition II](https://github.com/jherfson/curso-coderhouse/blob/main/aula12/Data_acquisition_II.ipynb)
+
 ## **Aula 13 - Wrangling II e Wrangling III**
 * [Wrangling II](https://github.com/jherfson/curso-coderhouse/blob/main/aula13/wrangling_II.ipynb)
 * [Wrangling III](https://github.com/jherfson/curso-coderhouse/blob/main/aula13/wrangling_III.ipynb)
