@@ -17,6 +17,7 @@
 
 ## **Aula 12 - Data Acquisition II e Data Wrangling I**
 * [Data Acquisition II](https://github.com/jherfson/curso-coderhouse/blob/main/aula12/Data_acquisition_II.ipynb)
+* [Data Wrangling I](https://github.com/jherfson/curso-coderhouse/blob/main/aula12/Data_wrangling_I.ipynb)
 ### **Exercício Data Acquisition II**
 * [Acessar banco de dados com pandas](https://github.com/jherfson/curso-coderhouse/blob/main/aula12/acessar_banco_dado_com_pandas.ipynb)
 
