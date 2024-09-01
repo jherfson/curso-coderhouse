@@ -20,6 +20,8 @@
 * [Data Wrangling I](https://github.com/jherfson/curso-coderhouse/blob/main/aula12/Data_wrangling_I.ipynb)
 ### **Exercício Data Acquisition II**
 * [Acessar banco de dados com pandas](https://github.com/jherfson/curso-coderhouse/blob/main/aula12/acessar_banco_dado_com_pandas.ipynb)
+### **Exercício Data Wrangling I**
+* [Merge com DataFrame](https://github.com/jherfson/curso-coderhouse/blob/main/aula12/merge_dataframe.ipynb)
 
 ## **Aula 13 - Wrangling II e Wrangling III**
 * [Wrangling II](https://github.com/jherfson/curso-coderhouse/blob/main/aula13/wrangling_II.ipynb)
