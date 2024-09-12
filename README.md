@@ -28,3 +28,4 @@
 * [Wrangling III](https://github.com/jherfson/curso-coderhouse/blob/main/aula13/wrangling_III.ipynb)
 ### **Exercício Data Wrangling II**
 * [Data Wrangling II](https://github.com/jherfson/curso-coderhouse/blob/main/aula13/Data_Wrangling.ipynb)
+* [Data Wrangling III](https://github.com/jherfson/curso-coderhouse/blob/main/aula13/exercicio_dataWrangling.ipynb)
