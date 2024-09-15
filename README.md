@@ -29,3 +29,7 @@
 ### **Exercício Data Wrangling II**
 * [Data Wrangling II](https://github.com/jherfson/curso-coderhouse/blob/main/aula13/Data_Wrangling.ipynb)
 * [Data Wrangling III](https://github.com/jherfson/curso-coderhouse/blob/main/aula13/exercicio_dataWrangling.ipynb)
+
+## **Aula 14 - Pré-processamento e Introdução ao Machine Learning e a Inteligência Artificial**
+* [Pré-Processamento](https://github.com/jherfson/curso-coderhouse/blob/main/aula14/pre-processamento.ipynb)
+* [ntrodução ao Machine Learning e a Inteligência Artificialntrodução ao Machine Learning e a Inteligência Artificial](https://github.com/jherfson/curso-coderhouse/blob/main/aula14/Introdu%C3%A7%C3%A3o%20ao%20Machine%20Learning%20e%20a%20Intelig%C3%AAncia%20Artificial.ipynb)
